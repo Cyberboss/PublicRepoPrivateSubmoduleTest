@@ -1,0 +1,3 @@
+[submodule "PrivateTest"]
+	path = PrivateTest
+	url = https://github.com/Cyberboss/PrivateTest
